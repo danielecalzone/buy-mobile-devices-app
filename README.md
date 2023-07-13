@@ -4,7 +4,7 @@ This is a web application for buying mobile devices. It allows users to browse t
 
 ## Live Demo
 
-You can try the live demo of the app [here](https://your-app-url.netlify.app).
+You can try the live demo of the app [here](https://buy-mobile-devices-app-danielecalzone.netlify.app/).
 
 ## Features
 
